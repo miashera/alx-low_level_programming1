@@ -2,8 +2,8 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- * main - task eleven
- * Return: always 0 (Success)
+ * main - entry point
+ * Return: Always 0 (Success)
  */
 
 int main(void)
@@ -11,12 +11,11 @@ int main(void)
 {
 	int d, p, q;
 
-	for (d = '0'; d < '9'; p++)
+	for (d = '0'; d < '9'; d++)
 	{
 
 	for (p = d + 1; p <= '9'; p++)
 	{
-
 	for (q = p + 1; q <= '9'; q++)
 	{
 	if ((p != d) != q)
