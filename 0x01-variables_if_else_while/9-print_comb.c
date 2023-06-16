@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- * main - nine task 
+ * main - nine task
  * Return: (success)
  */
 int main(void)
