@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * main - entry
- * Return: Always 0 
+ * Return: Always 0
  */
 
 int main(void)
