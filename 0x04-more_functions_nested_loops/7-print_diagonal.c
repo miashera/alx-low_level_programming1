@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * print_diagnal - draws
+ * print_diagonal - draws lines
  * @n: num
  * Return: empty
  */
