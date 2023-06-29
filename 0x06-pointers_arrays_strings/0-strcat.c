@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _strcat - concatenates 
+ * _strcat - concatenates
  * @dest: int value
  * @src: int value
  *
