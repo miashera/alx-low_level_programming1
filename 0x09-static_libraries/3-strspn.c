@@ -4,7 +4,7 @@
 #include <ctype.h>
 #include <string.h>
 
-char *_strchr(char *s, char c)
+unsigned int _strspn(char *s, char *accept)
 {
-    return strchr(s, c);
+    return strspn(s, accept);
 }

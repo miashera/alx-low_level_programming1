@@ -4,7 +4,7 @@
 #include <ctype.h>
 #include <string.h>
 
-char *_strchr(char *s, char c)
+int _strcmp(char *s1, char *s2)
 {
-    return strchr(s, c);
+    return strcmp(s1, s2);
 }
